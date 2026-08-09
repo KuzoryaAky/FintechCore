@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{622DCCEC-91D6-ADF4-B8CA-81866FD3DFFC}|FintechCore.Api\\FintechCore.Api.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622DCCEC-91D6-ADF4-B8CA-81866FD3DFFC}|FintechCore.Api\\FintechCore.Api.csproj|solutionrelative:fintechcore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1C8202-F310-8527-2C15-DCBDA742914F}|FintechCore.Workers\\FintechCore.Workers.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.workers\\transactiongeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1C8202-F310-8527-2C15-DCBDA742914F}|FintechCore.Workers\\FintechCore.Workers.csproj|solutionrelative:fintechcore.workers\\transactiongeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622DCCEC-91D6-ADF4-B8CA-81866FD3DFFC}|FintechCore.Api\\FintechCore.Api.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.api\\controllers\\transferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622DCCEC-91D6-ADF4-B8CA-81866FD3DFFC}|FintechCore.Api\\FintechCore.Api.csproj|solutionrelative:fintechcore.api\\controllers\\transferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B56D51-0B8A-EB91-8666-E8973DD5577B}|FintechCore.Application\\FintechCore.Application.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.application\\services\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B56D51-0B8A-EB91-8666-E8973DD5577B}|FintechCore.Application\\FintechCore.Application.csproj|solutionrelative:fintechcore.application\\services\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30210DFE-EED4-C005-4E65-17B5E612EC56}|FintechCore.Domain\\FintechCore.Domain.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.domain\\interfaces\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30210DFE-EED4-C005-4E65-17B5E612EC56}|FintechCore.Domain\\FintechCore.Domain.csproj|solutionrelative:fintechcore.domain\\interfaces\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30210DFE-EED4-C005-4E65-17B5E612EC56}|FintechCore.Domain\\FintechCore.Domain.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.domain\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30210DFE-EED4-C005-4E65-17B5E612EC56}|FintechCore.Domain\\FintechCore.Domain.csproj|solutionrelative:fintechcore.domain\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F28652-86AB-0E9E-1825-B508FE8E3D1C}|FintechCore.Infrastructure\\FintechCore.Infrastructure.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F28652-86AB-0E9E-1825-B508FE8E3D1C}|FintechCore.Infrastructure\\FintechCore.Infrastructure.csproj|solutionrelative:fintechcore.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1C8202-F310-8527-2C15-DCBDA742914F}|FintechCore.Workers\\FintechCore.Workers.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.workers\\outboxpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1C8202-F310-8527-2C15-DCBDA742914F}|FintechCore.Workers\\FintechCore.Workers.csproj|solutionrelative:fintechcore.workers\\outboxpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F28652-86AB-0E9E-1825-B508FE8E3D1C}|FintechCore.Infrastructure\\FintechCore.Infrastructure.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.infrastructure\\repositories\\outboxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F28652-86AB-0E9E-1825-B508FE8E3D1C}|FintechCore.Infrastructure\\FintechCore.Infrastructure.csproj|solutionrelative:fintechcore.infrastructure\\repositories\\outboxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30210DFE-EED4-C005-4E65-17B5E612EC56}|FintechCore.Domain\\FintechCore.Domain.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.domain\\interfaces\\ioutboxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30210DFE-EED4-C005-4E65-17B5E612EC56}|FintechCore.Domain\\FintechCore.Domain.csproj|solutionrelative:fintechcore.domain\\interfaces\\ioutboxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30210DFE-EED4-C005-4E65-17B5E612EC56}|FintechCore.Domain\\FintechCore.Domain.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.domain\\entities\\outbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30210DFE-EED4-C005-4E65-17B5E612EC56}|FintechCore.Domain\\FintechCore.Domain.csproj|solutionrelative:fintechcore.domain\\entities\\outbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622DCCEC-91D6-ADF4-B8CA-81866FD3DFFC}|FintechCore.Api\\FintechCore.Api.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{622DCCEC-91D6-ADF4-B8CA-81866FD3DFFC}|FintechCore.Api\\FintechCore.Api.csproj|solutionrelative:fintechcore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622DCCEC-91D6-ADF4-B8CA-81866FD3DFFC}|FintechCore.Api\\FintechCore.Api.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{622DCCEC-91D6-ADF4-B8CA-81866FD3DFFC}|FintechCore.Api\\FintechCore.Api.csproj|solutionrelative:fintechcore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622DCCEC-91D6-ADF4-B8CA-81866FD3DFFC}|FintechCore.Api\\FintechCore.Api.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{622DCCEC-91D6-ADF4-B8CA-81866FD3DFFC}|FintechCore.Api\\FintechCore.Api.csproj|solutionrelative:fintechcore.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B56D51-0B8A-EB91-8666-E8973DD5577B}|FintechCore.Application\\FintechCore.Application.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.application\\dtos\\transferrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B56D51-0B8A-EB91-8666-E8973DD5577B}|FintechCore.Application\\FintechCore.Application.csproj|solutionrelative:fintechcore.application\\dtos\\transferrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B56D51-0B8A-EB91-8666-E8973DD5577B}|FintechCore.Application\\FintechCore.Application.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.application\\dtos\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B56D51-0B8A-EB91-8666-E8973DD5577B}|FintechCore.Application\\FintechCore.Application.csproj|solutionrelative:fintechcore.application\\dtos\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622DCCEC-91D6-ADF4-B8CA-81866FD3DFFC}|FintechCore.Api\\FintechCore.Api.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\fintechcore\\fintechcore.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622DCCEC-91D6-ADF4-B8CA-81866FD3DFFC}|FintechCore.Api\\FintechCore.Api.csproj|solutionrelative:fintechcore.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransferService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Application\\Services\\TransferService.cs",
+              "RelativeDocumentMoniker": "FintechCore.Application\\Services\\TransferService.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Application\\Services\\TransferService.cs",
+              "RelativeToolTip": "FintechCore.Application\\Services\\TransferService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T10:01:34.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITransferService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Domain\\Interfaces\\ITransferService.cs",
+              "RelativeDocumentMoniker": "FintechCore.Domain\\Interfaces\\ITransferService.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Domain\\Interfaces\\ITransferService.cs",
+              "RelativeToolTip": "FintechCore.Domain\\Interfaces\\ITransferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T09:59:40.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OutboxRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Infrastructure\\Repositories\\OutboxRepository.cs",
+              "RelativeDocumentMoniker": "FintechCore.Infrastructure\\Repositories\\OutboxRepository.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Infrastructure\\Repositories\\OutboxRepository.cs",
+              "RelativeToolTip": "FintechCore.Infrastructure\\Repositories\\OutboxRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T08:46:53.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOutboxRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Domain\\Interfaces\\IOutboxRepository.cs",
+              "RelativeDocumentMoniker": "FintechCore.Domain\\Interfaces\\IOutboxRepository.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Domain\\Interfaces\\IOutboxRepository.cs",
+              "RelativeToolTip": "FintechCore.Domain\\Interfaces\\IOutboxRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T08:44:21.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Outbox.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Domain\\Entities\\Outbox.cs",
+              "RelativeDocumentMoniker": "FintechCore.Domain\\Entities\\Outbox.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Domain\\Entities\\Outbox.cs",
+              "RelativeToolTip": "FintechCore.Domain\\Entities\\Outbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T08:43:09.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "FintechCore.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Api\\appsettings.json",
+              "RelativeToolTip": "FintechCore.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-09T08:33:34.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FintechCore.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Api\\appsettings.Development.json",
+              "RelativeToolTip": "FintechCore.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-09T08:33:30.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransferRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Application\\DTOs\\TransferRequestDto.cs",
+              "RelativeDocumentMoniker": "FintechCore.Application\\DTOs\\TransferRequestDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Application\\DTOs\\TransferRequestDto.cs",
+              "RelativeToolTip": "FintechCore.Application\\DTOs\\TransferRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T08:05:37.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateAccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Application\\DTOs\\CreateAccountDto.cs",
+              "RelativeDocumentMoniker": "FintechCore.Application\\DTOs\\CreateAccountDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Application\\DTOs\\CreateAccountDto.cs",
+              "RelativeToolTip": "FintechCore.Application\\DTOs\\CreateAccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T08:05:34.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FintechCore.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FintechCore.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-09T04:14:17.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Domain\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "FintechCore.Domain\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Domain\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "FintechCore.Domain\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T16:20:41.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Api\\Program.cs",
+              "RelativeDocumentMoniker": "FintechCore.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Api\\Program.cs",
+              "RelativeToolTip": "FintechCore.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T06:44:50.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransfersController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Api\\Controllers\\TransfersController.cs",
+              "RelativeDocumentMoniker": "FintechCore.Api\\Controllers\\TransfersController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Api\\Controllers\\TransfersController.cs",
+              "RelativeToolTip": "FintechCore.Api\\Controllers\\TransfersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T04:36:26.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionGeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Workers\\TransactionGeneratorService.cs",
+              "RelativeDocumentMoniker": "FintechCore.Workers\\TransactionGeneratorService.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Workers\\TransactionGeneratorService.cs",
+              "RelativeToolTip": "FintechCore.Workers\\TransactionGeneratorService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwEIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T09:43:43.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OutboxPublisherService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Workers\\OutboxPublisherService.cs",
+              "RelativeDocumentMoniker": "FintechCore.Workers\\OutboxPublisherService.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Workers\\OutboxPublisherService.cs",
+              "RelativeToolTip": "FintechCore.Workers\\OutboxPublisherService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T08:54:54.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "FintechCore.Infrastructure\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "FintechCore.Infrastructure\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T09:53:21.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Api\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "FintechCore.Api\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\FintechCore\\FintechCore.Api\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "FintechCore.Api\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T16:20:20.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

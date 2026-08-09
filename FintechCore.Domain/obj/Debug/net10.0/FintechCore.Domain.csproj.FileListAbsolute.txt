@@ -1,0 +1,11 @@
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Domain\bin\Debug\net10.0\FintechCore.Domain.deps.json
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Domain\bin\Debug\net10.0\FintechCore.Domain.dll
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Domain\bin\Debug\net10.0\FintechCore.Domain.pdb
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Domain\obj\Debug\net10.0\FintechCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Domain\obj\Debug\net10.0\FintechCore.Domain.AssemblyInfoInputs.cache
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Domain\obj\Debug\net10.0\FintechCore.Domain.AssemblyInfo.cs
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Domain\obj\Debug\net10.0\FintechCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Domain\obj\Debug\net10.0\FintechCore.Domain.dll
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Domain\obj\Debug\net10.0\refint\FintechCore.Domain.dll
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Domain\obj\Debug\net10.0\FintechCore.Domain.pdb
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Domain\obj\Debug\net10.0\ref\FintechCore.Domain.dll

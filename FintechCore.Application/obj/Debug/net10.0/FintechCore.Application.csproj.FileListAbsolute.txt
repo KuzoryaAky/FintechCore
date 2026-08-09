@@ -1,0 +1,15 @@
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\bin\Debug\net10.0\FintechCore.Application.deps.json
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\bin\Debug\net10.0\FintechCore.Application.dll
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\bin\Debug\net10.0\FintechCore.Application.pdb
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\bin\Debug\net10.0\FintechCore.Domain.dll
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\bin\Debug\net10.0\FintechCore.Domain.pdb
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\obj\Debug\net10.0\FintechCore.Application.csproj.AssemblyReference.cache
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\obj\Debug\net10.0\FintechCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\obj\Debug\net10.0\FintechCore.Application.AssemblyInfoInputs.cache
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\obj\Debug\net10.0\FintechCore.Application.AssemblyInfo.cs
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\obj\Debug\net10.0\FintechCore.Application.csproj.CoreCompileInputs.cache
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\obj\Debug\net10.0\FintechC.6D73E19E.Up2Date
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\obj\Debug\net10.0\FintechCore.Application.dll
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\obj\Debug\net10.0\refint\FintechCore.Application.dll
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\obj\Debug\net10.0\FintechCore.Application.pdb
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Application\obj\Debug\net10.0\ref\FintechCore.Application.dll

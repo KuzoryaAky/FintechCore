@@ -1,0 +1,17 @@
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\bin\Debug\net10.0\FintechCore.Infrastructure.deps.json
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\bin\Debug\net10.0\FintechCore.Infrastructure.dll
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\bin\Debug\net10.0\FintechCore.Infrastructure.pdb
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\bin\Debug\net10.0\FintechCore.Application.dll
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\bin\Debug\net10.0\FintechCore.Domain.dll
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\bin\Debug\net10.0\FintechCore.Application.pdb
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\bin\Debug\net10.0\FintechCore.Domain.pdb
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\obj\Debug\net10.0\FintechCore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\obj\Debug\net10.0\FintechCore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\obj\Debug\net10.0\FintechCore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\obj\Debug\net10.0\FintechCore.Infrastructure.AssemblyInfo.cs
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\obj\Debug\net10.0\FintechCore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\obj\Debug\net10.0\FintechC.FA054165.Up2Date
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\obj\Debug\net10.0\FintechCore.Infrastructure.dll
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\obj\Debug\net10.0\refint\FintechCore.Infrastructure.dll
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\obj\Debug\net10.0\FintechCore.Infrastructure.pdb
+C:\Users\Домашний\source\repos\FintechCore\FintechCore.Infrastructure\obj\Debug\net10.0\ref\FintechCore.Infrastructure.dll

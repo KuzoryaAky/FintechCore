@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="FintechCore.Api/FintechCore.Api.csproj" />
+    <Project Path="FintechCore.Application/FintechCore.Application.csproj" />
+    <Project Path="FintechCore.Domain/FintechCore.Domain.csproj" />
+    <Project Path="FintechCore.Infrastructure/FintechCore.Infrastructure.csproj" />
+    <Project Path="FintechCore.Workers/FintechCore.Workers.csproj" />
+  </Folder>
+  <Folder Name="/Test/" />
+</Solution>
